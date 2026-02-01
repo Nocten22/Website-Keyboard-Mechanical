@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from "react";
-import Header from "./components/header.jsx";
+import Header from "./components/Header.jsx";
 import ProductFilter from "./components/ProductFilter";
 import ProductCard from "./components/ProductCard";
 import TestimonialCard from "./components/TestimonialCard";
